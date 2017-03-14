@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1458306469 source:c:\users\resobyte\desktop\petrol\petrolprojesi\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1464365715 source:c:\users\resobyte\desktop\project\petrol\petrolprojesi\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<fstream>
+	<time.h>
+
+1464365716 source:d:\project\petrol\petrolprojesi\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<fstream>
+	<time.h>
+
+1464362116 source:d:\reþat\project\petrol\petrolprojesi\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<fstream>
+	<time.h>
+
